@@ -1,0 +1,14 @@
+{
+    "name": "OLED119",
+    "version": "1.0",
+    "description": "Extension for micro:bit OLED119 V1.0",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": true
+}
